@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Qin-Chengbo
 - 👀 I’m interested in nlp，cv
-- 🌱 I’m currently learning msc in FinTech
+- 🌱 I’m currently learning msc in FinTech AND work at BNPP Global Market
 - 💞️ I’m looking to collaborate on new development of ai in finance insudtry
 - 📫 How to reach me ... 15101941d@gmail.com OR cqinac@connect.ust.hk
 
